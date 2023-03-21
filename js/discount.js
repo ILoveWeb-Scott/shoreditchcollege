@@ -15,7 +15,7 @@ function updatePriceWithDiscount(discountPercentage) {
   var formattedDiscountedPrice = discountedPrice.toFixed(2);
 
   // Get the button element by its ID
-  var buttonElement = document.getElementById("el_1679404282925_430");
+  var buttonElement = document.getElementById("el_1679404282925_426");
   // Get the span element inside the button by its ID
   var buttonTextElement = document.getElementById("el_1679404282925_434");
   // Set the "Enrol Now" text, original price, and discounted price as the content of the span element inside the button
